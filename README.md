@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Divyansh! Aspiring Software Engineer | <br>Passionate about AI/ML, Automation, and Clean Code 🎓<br> Currently studying Software Engineering.
+👋 Hi, I'm Divyansh! Aspiring Software Engineer | <br>Passionate about AI/ML, Automation, and Clean Code 🎓<br> Currently studying Software Engineering
 
 
 ## 🌐 Socials:
